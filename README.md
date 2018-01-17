@@ -2,17 +2,20 @@
 I/O Stream Formatting
 
 
-Class ID: *Pokemon*
+Class ID: 
 
 SRS ID: CST116SRS02
 
-Unresolved Issues:  None. 
+Unresolved Issues: 
 
-Notes: Compiled with Visual Studio 2017 on Windows 10. 
+Notes: 
 
 ---
 
-Purpose: Demonstrate stream input and output formatting. 
+Purpose: 
+
+Demonstrate stream input and output formatting. 
+Practice creating multiple projects in a solution. 
 
 Instructions: 
 
@@ -33,4 +36,4 @@ Part 1:
 
 Create a project named “Input”.  
 
-Read user input from std::cin. Display “A Number” if the information entered is a number or “Not A Number” if the value entered is not a number.  
+Read user input from std::cin. Display the number back to std::cout with the format in scientific notation. 
