@@ -14,7 +14,7 @@ Notes:
 
 Purpose: 
 
-Demonstrate stream input and output formatting. 
+Demonstrate stream input and output formatting.  
 Practice creating multiple projects in a solution. 
 
 Instructions: 
