@@ -36,4 +36,4 @@ Part 1:
 
 Create a project named “Input”.  
 
-Read user input from std::cin. Display the number back to std::cout with the format in scientific notation. 
+Read user input from std::cin with a prompt for a number "Enter a number: ". Display the number back to std::cout with the format in scientific notation. 
